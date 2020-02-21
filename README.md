@@ -1,8 +1,8 @@
 
 # vuetify-datetime-picker
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/darrenfang/vuetify-datetime-picker/blob/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/vuetify-datetimepicker.svg?style=flat)](https://www.npmjs.com/package/vuetify-datetime-picker)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/goldenm-software/vuetify-datetime-picker/blob/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/@goldenm/vuetify-datetime-picker.svg?style=flat)](https://www.npmjs.com/package/@goldenm/vuetify-datetime-picker)
 
 DatetimePicker component for Vuetify.js.
 
