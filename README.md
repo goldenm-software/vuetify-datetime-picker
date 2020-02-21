@@ -11,17 +11,17 @@ Credits for the original library author <b>[Darren Fang](https://github.com/darr
 ## Installation
 
 ```shell
-npm install --save vuetify-datetime-picker
+npm install --save @goldenm/vuetify-datetime-picker
 
 or
 
-yarn add vuetify-datetime-picker
+yarn add @goldenm/vuetify-datetime-picker
 ```
 
 ```js
 import Vue from 'vue'
-import DatetimePicker from 'vuetify-datetimepicker'
-// (Optional) import 'vuetify-datetimepicker/src/scss/main.scss'
+import DatetimePicker from '@goldenm/vuetify-datetime-picker'
+// (Optional) import '@goldenm/vuetify-datetime-picker/src/scss/main.scss'
 
 Vue.use(DatetimePicker)
 ```
